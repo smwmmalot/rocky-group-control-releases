@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "latest": {
+    "version": "0.1.0",
+    "build": 18,
+    "url": "https://github.com/smwmmalot/rocky-group-control-releases/releases/download/windows-v0.1.0-b18/ROCKY_GROUP_Setup_0.1.0_18.exe",
+    "sha256": "ee7c14660df51b64e9e090a9e20d2342bcd512d0e03ead76979704b2e2f92d4f",
+    "size": 51505718,
+    "notes": "첫 Windows 배포(자동 업데이트 지원).\n- 앱을 켤 때 새 버전을 확인하고 버튼 하나로 업데이트해요.\n- 창 제목줄·작업 표시줄 아이콘이 선명해졌어요."
+  },
+  "minBuild": 0,
+  "message": ""
+}
