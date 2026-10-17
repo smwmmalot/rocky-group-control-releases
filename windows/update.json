@@ -2,11 +2,11 @@
   "schema": 1,
   "latest": {
     "version": "0.1.0",
-    "build": 18,
-    "url": "https://github.com/smwmmalot/rocky-group-control-releases/releases/download/windows-v0.1.0-b18/ROCKY_GROUP_Setup_0.1.0_18.exe",
-    "sha256": "ee7c14660df51b64e9e090a9e20d2342bcd512d0e03ead76979704b2e2f92d4f",
-    "size": 51505718,
-    "notes": "첫 Windows 배포(자동 업데이트 지원).\n- 앱을 켤 때 새 버전을 확인하고 버튼 하나로 업데이트해요.\n- 창 제목줄·작업 표시줄 아이콘이 선명해졌어요."
+    "build": 19,
+    "url": "https://github.com/smwmmalot/rocky-group-control-releases/releases/download/windows-v0.1.0-b19/ROCKY_GROUP_Setup_0.1.0_19.exe",
+    "sha256": "e913dba848b7ab5b02f5d356df3cf2df22cf45a81d6f9cac8a30960d6e0a7338",
+    "size": 52643158,
+    "notes": "Windows에서 AI 기능을 쓸 수 있어요.\n- 음원을 고르면 \"AI로 안무 만들기\"가 보여요(곡 분석).\n- AI 도우미 마이크로 한국어 음성 입력이 돼요. 처음 한 번 \"음성 인식 준비하기\"로 모델(약 181MB)을 받아요."
   },
   "minBuild": 0,
   "message": ""
