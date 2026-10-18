@@ -2,11 +2,19 @@
   "schema": 1,
   "latest": {
     "version": "0.1.0",
-    "build": 20,
-    "url": "https://github.com/smwmmalot/rocky-group-control-releases/releases/download/windows-v0.1.0-b20/ROCKY_GROUP_Setup_0.1.0_20.exe",
-    "sha256": "1255a5362693449528b6102c7d372dbdcfd725306b96339784d8382e41cfda62",
-    "size": 52641426,
-    "notes": "안정성 개선.\n- 창을 닫거나 업데이트할 때 로봇을 먼저 멈춘 뒤 앱이 닫혀요.\n- 앱을 두 번 실행해도 하나만 열리고, 이미 열린 창이 앞으로 와요.\n- 업데이트가 앱이 완전히 닫힌 뒤에 설치돼 중간에 멈추지 않아요."
+    "build": 21,
+    "url": "https://github.com/smwmmalot/rocky-group-control-releases/releases/download/windows-v0.1.0-b21/ROCKY_GROUP_Setup_0.1.0_21.exe",
+    "sha256": "3b5afb4be3fbfdf4aea6d5d30ca0ab77513f8da5857465832f3e44a042cf7f0c",
+    "size": 52671510,
+    "notes": "Windows 편집 화면과 배포 개선.\n- 안무가 화면보다 길어도 마우스 휠·아래 스크롤바·좌우 버튼으로 넘길 수 있어요. 블록을 끌 때 가장자리에 두면 저절로 넘어가요.\n- 그림과 실제 동작이 다른 120·122~128번 동작은 고를 수 없게 뺐어요.\n- 이제 설치 파일은 zip 으로 배포돼요(업데이트도 zip 으로 받아요)."
+  },
+  "zip": {
+    "version": "0.1.0",
+    "build": 21,
+    "url": "https://github.com/smwmmalot/rocky-group-control-releases/releases/download/windows-v0.1.0-b21/ROCKY_GROUP_Setup_0.1.0_21.zip",
+    "sha256": "aecf7daa70995fc1366133507caa7ea3bcc75984595a3edfc651406d73644a4d",
+    "size": 52170247,
+    "notes": "Windows 편집 화면과 배포 개선.\n- 안무가 화면보다 길어도 마우스 휠·아래 스크롤바·좌우 버튼으로 넘길 수 있어요. 블록을 끌 때 가장자리에 두면 저절로 넘어가요.\n- 그림과 실제 동작이 다른 120·122~128번 동작은 고를 수 없게 뺐어요.\n- 이제 설치 파일은 zip 으로 배포돼요(업데이트도 zip 으로 받아요)."
   },
   "minBuild": 0,
   "message": ""
