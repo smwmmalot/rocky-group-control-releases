@@ -1,20 +1,13 @@
 {
   "schema": 1,
-  "latest": {
-    "version": "0.1.0",
-    "build": 21,
-    "url": "https://github.com/smwmmalot/rocky-group-control-releases/releases/download/windows-v0.1.0-b21/ROCKY_GROUP_Setup_0.1.0_21.exe",
-    "sha256": "3b5afb4be3fbfdf4aea6d5d30ca0ab77513f8da5857465832f3e44a042cf7f0c",
-    "size": 52671510,
-    "notes": "Windows 편집 화면과 배포 개선.\n- 안무가 화면보다 길어도 마우스 휠·아래 스크롤바·좌우 버튼으로 넘길 수 있어요. 블록을 끌 때 가장자리에 두면 저절로 넘어가요.\n- 그림과 실제 동작이 다른 120·122~128번 동작은 고를 수 없게 뺐어요.\n- 이제 설치 파일은 zip 으로 배포돼요(업데이트도 zip 으로 받아요)."
-  },
+  "latest": {"build":21,"notes":"Windows 편집 화면과 배포 개선.\n- 안무가 화면보다 길어도 마우스 휠·아래 스크롤바·좌우 버튼으로 넘길 수 있어요. 블록을 끌 때 가장자리에 두면 저절로 넘어가요.\n- 그림과 실제 동작이 다른 120·122~128번 동작은 고를 수 없게 뺐어요.\n- 이제 설치 파일은 zip 으로 배포돼요(업데이트도 zip 으로 받아요).","sha256":"3b5afb4be3fbfdf4aea6d5d30ca0ab77513f8da5857465832f3e44a042cf7f0c","size":52671510,"url":"https://github.com/smwmmalot/rocky-group-control-releases/releases/download/windows-v0.1.0-b21/ROCKY_GROUP_Setup_0.1.0_21.exe","version":"0.1.0"},
   "zip": {
     "version": "0.1.0",
-    "build": 21,
-    "url": "https://github.com/smwmmalot/rocky-group-control-releases/releases/download/windows-v0.1.0-b21/ROCKY_GROUP_Setup_0.1.0_21.zip",
-    "sha256": "aecf7daa70995fc1366133507caa7ea3bcc75984595a3edfc651406d73644a4d",
-    "size": 52170247,
-    "notes": "Windows 편집 화면과 배포 개선.\n- 안무가 화면보다 길어도 마우스 휠·아래 스크롤바·좌우 버튼으로 넘길 수 있어요. 블록을 끌 때 가장자리에 두면 저절로 넘어가요.\n- 그림과 실제 동작이 다른 120·122~128번 동작은 고를 수 없게 뺐어요.\n- 이제 설치 파일은 zip 으로 배포돼요(업데이트도 zip 으로 받아요)."
+    "build": 22,
+    "url": "https://github.com/smwmmalot/rocky-group-control-releases/releases/download/windows-v0.1.0-b22/ROCKY_GROUP_Setup_0.1.0_22.zip",
+    "sha256": "cb569f4977813f4f99e1104f006165dea0629e0ff3eec17c437919dee389bf55",
+    "size": 52168987,
+    "notes": "로봇 연결 상한 개선.\n- 꺼진 로봇이 다시 연결되지 않는다는 이유로 연결 가능 대수가 줄어들지 않아요.\n- 연결 가능 대수가 줄면 로봇 추가 화면에 이유가 보이고, \"다시 탐색\"을 누르면 설정한 대수로 돌아가요."
   },
   "minBuild": 0,
   "message": ""
